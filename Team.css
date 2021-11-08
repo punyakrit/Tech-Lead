@@ -1,0 +1,67 @@
+.team{
+    margin-top: 70px;
+   width: 100%;
+   padding: 50px;
+}
+
+.team-head{
+    
+    text-align: center;
+   
+}
+
+.team-head h1{
+    padding-bottom: 30px;
+    color: rgb(24, 54, 80);
+    font-size: 40px;
+}
+
+.team-member{
+    height: 250px;
+    width: 250px;
+    padding: 40px;
+    margin-left: 45px;
+    text-align: center;
+  
+}
+
+.team-member img{
+    height: 200px;
+    width: 200px;
+}
+
+.team-member h3{
+    padding: 2px;
+    font-size: 25px;
+    color: rgb(35, 54, 70);
+}
+
+.team-member h5{
+    color: rgb(85, 85, 85);
+}
+
+.team-col{
+    display: flex;
+    flex-direction: column;
+}
+
+.team-row{
+    display: flex;
+}
+
+.t1{
+    padding-top: 250px;
+}
+
+
+.t2{
+    padding-top: 130px;
+}
+
+
+.t3{
+    padding-top: 200px;
+}
+
+
+

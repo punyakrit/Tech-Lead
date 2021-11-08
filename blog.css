@@ -1,0 +1,53 @@
+.blog{
+   
+        margin-top: 70px;
+       
+       padding: 50px;
+    
+}
+
+.blog-head{
+    text-align: center;
+}
+
+.blog-head h3{
+    padding-bottom: 30px;
+    color: rgb(24, 54, 80);
+    font-size: 40px;
+}
+
+.blog-info{
+    height: 400px;
+    width: 350px;
+    
+    
+    box-shadow:         3px 3px 5px 6px rgb(228, 228, 228);
+    padding: 40px;
+    margin: 25px;
+    border-radius: 15px;
+    text-align: center;
+    
+}
+
+
+.blog-info img{
+    height: 250px;
+    width: 350px;
+}
+
+.blog-info h3{
+    padding: 20px;
+    font-size: 1.3rem
+}
+
+.blog-info p{
+    font-size: 1rem;
+    color: rgb(145, 145, 145);
+}
+
+.blog-row{
+    display:flex;
+    flex: auto;
+    
+    
+}
